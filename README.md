@@ -1,3 +1,3 @@
-Hi, I’m @sachaesilva, a 5th Year student in Pharmacy (Research)
-I’m interested in bio-informatics and computational biology applied to "omics"
+Hi, I’m @sachaesilva, a 6th Year student in Pharmacy (Industry/Research)
+I’m interested in bio-informatics and computational biology 
 I’m currently learning Python, SQL, R and bash 
